@@ -1,0 +1,13 @@
+useState()
+import useState from react
+how to use :
+const [x, setX] = useState(26)
+    setX use for change value of x.
+
+#######################
+- style in react js :
+   + inline style
+   + internal style
+   + extenao style
+
+    
